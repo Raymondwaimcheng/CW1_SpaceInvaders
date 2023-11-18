@@ -24,7 +24,7 @@
   The Buff is represented as `*`, which will spawn every 10 seconds at the top of the window and move downward.
 
 ## UML Design Diagram
-
+  <img width="597" alt="UML(expected)" src="https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/assets/147705610/e76b1c93-ee46-487e-b0c2-fda884b8914c">
 
 ## Demonstration
 
