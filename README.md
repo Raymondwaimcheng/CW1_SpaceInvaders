@@ -26,8 +26,11 @@
 ## UML Design Diagram (expected)
   <img width="597" alt="UML(expected)" src="https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/assets/147705610/e76b1c93-ee46-487e-b0c2-fda884b8914c">
 
-## Demonstration
+## Test Case
+  
 
+## Demonstration
+  https://youtu.be/-fJR8622IXQ
 
 ## Git Repository
   https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/tree/main
