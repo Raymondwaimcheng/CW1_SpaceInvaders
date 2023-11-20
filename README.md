@@ -27,7 +27,7 @@
   <img width="597" alt="UML(expected)" src="https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/assets/147705610/e76b1c93-ee46-487e-b0c2-fda884b8914c">
 
 ## Test Case
-  [CW Test case.xlsx](https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/files/13413759/CW.Test.case.xlsx)
+  <img width="392" alt="Test Case" src="https://github.com/Raymondwaimcheng/CW1_SpaceInvaders/assets/147705610/52f141bf-b7f3-4fa5-80f2-800cad72e5e7">
 
 ## Demonstration
   https://youtu.be/-fJR8622IXQ
